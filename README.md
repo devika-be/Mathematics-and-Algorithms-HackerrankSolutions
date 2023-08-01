@@ -4,7 +4,7 @@ Solutions for Hackerrank Challenges of Mathematics and algorithms
 
 **Description of the Code files**
 
-+ [Find the Point](armyGame.py)
++ [Find the Point](FindthePoint.py)
 + [Best Divisor](bestdivisor.py)
 + [Binary Search](BinarySearch.py)
 + [Connecting Towns](connectTowns.py)
