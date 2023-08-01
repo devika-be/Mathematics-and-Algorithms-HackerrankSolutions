@@ -5,11 +5,11 @@ Solutions for Hackerrank Challenges of Mathematics and algorithms
 **Description of the Code files**
 
 + [Find the Point](FindthePoint.py)
-+ [Best Divisor](bestdivisor.py)
-+ [Binary Search](BinarySearch.py)
-+ [Connecting Towns](connectTowns.py)
-+ [Cutting Paper Squares](cuttingSquares.py)
-+ [Plus Minus](decimalPrecision.py)
++ [Handshake](Handshake.py)
++ [Army Game](ArmyGame.py)
++ [Best Divisor](BestDivisor.py)
++ [Restaurant](Restaurant.py)
++ [Diwali Lights](DiwaliLights.py)
 
 
 This Solution set is authored by myself when I was solving some of Mathematics problems, It is not a complete set - A work in Progress. 
