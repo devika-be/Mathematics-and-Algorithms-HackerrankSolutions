@@ -9,6 +9,8 @@ Solutions for Hackerrank Challenges of Mathematics and algorithms
 + [Army Game](ArmyGame.py)
 + [Best Divisor](BestDivisor.py)
 + [Restaurant](Restaurant.py)
++ [DiwaliLights](DiwaliLights.py)
+
 
 
 This Solution set is authored by myself when I was solving some of Mathematics problems, It is not a complete set - A work in Progress. 
