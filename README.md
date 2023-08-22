@@ -11,6 +11,8 @@ Solutions for Hackerrank Challenges of Mathematics and algorithms
 + [Restaurant](Restaurant.py)
 + [DiwaliLights](DiwaliLights.py)
 + [SherlockandPermutations](SherlockandPermutations.py)
++ + [SherlockandPermutations](SherlockandPermutations.py)
++ [SherlockandPermutations](SherlockandPermutations.py)
   
 
 
