@@ -12,7 +12,6 @@ Solutions for Hackerrank Challenges of Mathematics and algorithms
 + [DiwaliLights](DiwaliLights.py)
 + [SherlockandPermutations](SherlockandPermutations.py)
 +  [SherlockandPermutations](SherlockandPermutations.py)
-+ [SherlockandPermutations](SherlockandPermutations.py)
   
 
 
