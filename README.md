@@ -11,7 +11,8 @@ Solutions for Hackerrank Challenges of Mathematics and algorithms
 + [Restaurant](Restaurant.py)
 + [DiwaliLights](DiwaliLights.py)
 + [SherlockandPermutations](SherlockandPermutations.py)
-+  [SpecialMultiple]( SpecialMultiple.py)
++ [SpecialMultiple]( SpecialMultiple.py)
++ [ConnectTowns](ConnectTowns.py)
 
 
 This Solution set is authored by myself when I was solving some of Mathematics problems, It is not a complete set - A work in Progress. 
